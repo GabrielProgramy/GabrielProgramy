@@ -1,6 +1,7 @@
 ## Gabriel Costa 👨🏾‍💻
 
-http://github.com/gabrielprogramy
-[GitHub](http://github.com)
+Hi, I'm Gabriel Costa FullStack Developer, I'm currently specializing in React.JS and Node.js
 
-- Atualmente estou estudando React.js, Node, React-Native e Typescript 📘
+
+
+
