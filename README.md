@@ -1,6 +1,14 @@
-## Gabriel Costa 👨🏾‍💻
+## Hello, I'm Gabriel Costa, full stack developer and technology enthusiast.
 
-Hi, I'm Gabriel Costa FullStack Developer, I'm currently specializing in React.JS and Node.js
+Learning now React
+
+Technology
+
+ - <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="20px"> Typescript
+ - <img src="https://cdn.svgporn.com/logos/javascript.svg" width="20px"> Javascript
+ - <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="20px"> Node.js
+ - <img src="https://cdn.svgporn.com/logos/react.svg" width="20px"> React.js
+ - <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="20px"> Postgress
 
 
 
