@@ -12,6 +12,6 @@ I am currently studying Node.js, React, React-Native
  > <img src="https://cdn.svgporn.com/logos/react.svg" width="20px"> React.js
  > <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="20px"> Postgress
 
-
+<a href="#"><img src="https://cdn.svgporn.com/logos/linkedin.svg"> </a>
 
 
