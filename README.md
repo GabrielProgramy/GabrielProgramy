@@ -1,6 +1,6 @@
 # Hello, I'm Gabriel Costa 👋
 
-### Full stack developer and technology enthusiast.
+### Backend developer and technology enthusiast.
 
 I am currently studying Node.js, React, React-Native
 
