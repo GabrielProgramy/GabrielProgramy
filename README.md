@@ -2,7 +2,7 @@
 
 ### Backend developer and technology enthusiast.
 
-I am currently studying Node.js, React, React-Native
+I am currently studying Node.js
 
 <b>Technology</b>
 
