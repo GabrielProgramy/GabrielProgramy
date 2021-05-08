@@ -20,4 +20,5 @@ I am currently studying Node.js
   
  
  # Redes
- <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="20px"> [Linkedin](https://linkedin.com/in/gabriel-estevan-alves-costa)
+
+<img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="20px"> [Linkedin](https://linkedin.com/in/gabriel-estevan-alves-costa)
