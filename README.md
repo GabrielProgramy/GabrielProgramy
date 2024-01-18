@@ -1,24 +1,20 @@
-# Hello, I'm Gabriel Costa 👋
+## 🧔🏾‍♂️ Hi!
 
-### Backend developer and technology enthusiast.
-
-I am currently studying Node.js
-
-<b>Technology</b>
-
-  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="20px"> Typescript 
-  
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" width="20px"> Javascript 
+Eu sou Gabriel Costa
  
-  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="20px"> Node.js
+Desenvolvedor
 
-  <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="20px"> Postgress
-  
-  <img src="https://cdn.svgporn.com/logos/mysql.svg" width="20px"> My SQL
-  
-  
-  
- 
- # Redes
+Formado em ADS 
 
-<img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="20px"> [Linkedin](https://linkedin.com/in/gabriel-estevan-alves-costa)
+Meu foco atualmente esta em Backend
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielProgramy&show_icons=true&icon_color=eba400&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielProgramy&show_icons=true&icon_color=eba400&theme=great-gatsby"/>
+</div>
+
+### ❤️ Let's get connected:
+
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-estevan-alves-costa/)
+
+
